@@ -74,9 +74,3 @@ Check out the live demo: [Medium Clone](https://medium-one-omega.vercel.app/sign
 ## License
 
 This project is licensed under the MIT License.
-
-## Contact
-
-Sriman Chaudhuri - srimanchaudhuri@gmail.com
-
-Project Link: [https://github.com/srimanchaudhuri/medium-clone](https://github.com/srimanchaudhuri/Medium)
